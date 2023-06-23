@@ -4,11 +4,13 @@
 #### _Currently_
 
 - Frontend developer at [Autentia](https://www.autentia.com/)
-- [Codemotion Madrid](https://extra.codemotion.com/ambassadors-program/) Committee member
+- Codemotion Madrid Committee member
+- [Codemotion Ambassador](https://extra.codemotion.com/ambassadors-program/)
 
 #### _Previously_
 
 - Master's teacher at CICE Madrid
+- [EscuelaIT teacher](https://escuela.it/teacher/cesar-alberca-1)
 
 <p align="left"> <a href="https://twitter.com/cesalberca" target="blank"><img src="https://img.shields.io/twitter/follow/cesalberca?logo=twitter&style=for-the-badge" alt="cesalberca" /></a> </p>
 
