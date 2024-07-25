@@ -3,21 +3,21 @@
 
 #### _Currently_
 
-- Frontend developer at [Autentia](https://www.autentia.com/)
+- Senior Frontend Architect Freelancer
 - Codemotion Madrid Committee member
 - [Codemotion Ambassador](https://extra.codemotion.com/ambassadors-program/)
+- [Colivers Club Podcast Host](https://coliversclub.com)
 
 #### _Previously_
 
+- Frontend Software Developer at Autentia
 - Master's teacher at CICE Madrid
 - [EscuelaIT teacher](https://escuela.it/teacher/cesar-alberca-1)
 
-<p align="left"> <a href="https://twitter.com/cesalberca" target="blank"><img src="https://img.shields.io/twitter/follow/cesalberca?logo=twitter&style=for-the-badge" alt="cesalberca" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/cesalberca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cesalberca" height="30" width="40" /></a>
-<a href="https://twitter.com/cesalberca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cesalberca" height="30" width="40" /></a>
+<a href="https://instagram.com/cesalberca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesalberca" height="30" width="40" /></a>
+<a href="https://x.com/cesalberca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cesalberca" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/c%c3%a9sar-alberca-8ba52091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c%c3%a9sar-alberca-8ba52091" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6475656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6475656" height="30" width="40" /></a>
 </p>
