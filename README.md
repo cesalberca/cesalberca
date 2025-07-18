@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm César</h1>
-<h3 align="center">Digital Nomad traveling the world thanks to JavaScript</h3>
+<h3 align="center">Helping You Build Scalable, AI-Ready Frontend Architecture</h3>
 
 #### _Currently_
 
-- Senior Front-end Architect Freelancer
+- Freelancer Frontend Architect
 - Codemotion Madrid Committee member
 - [Codemotion Ambassador](https://extra.codemotion.com/ambassadors-program/)
 - [Colivers Club Podcast Host](https://coliversclub.com)
