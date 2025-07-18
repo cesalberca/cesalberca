@@ -11,7 +11,7 @@
 #### _Previously_
 
 - Frontend Software Developer at [Autentia](http://autentia.com/)
-- Front-end Fullstack Master's teacher at CICE Madrid
+- Frontend Fullstack Master's teacher at CICE Madrid
 - [EscuelaIT teacher](https://escuela.it/teacher/cesar-alberca-1)
 
 <h3 align="left">Connect with me:</h3>
